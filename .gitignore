@@ -1,0 +1,10 @@
+.png
+*.jpg
+*.edu
+*.sh
+*.txt
+*.log
+resnet_model/
+lenet_model/
+mnist_testing/
+cat_dog_testing_set/
