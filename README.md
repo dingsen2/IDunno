@@ -1,5 +1,4 @@
-# CS425-MP3-SM: SDFS
-
+# IDunno: A distributed inference framework
 ## Usage
 
 ### Run Server
