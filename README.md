@@ -20,7 +20,7 @@ You are able to input directly to the terminal as command including
 - `leave`: leave the group
 - `ml`: print current node's membership list
 
-### SDFS Commands
+### Simple Distributed File System Commands
 
 Except for commands from failure detector (`join`, `leave` and `ml`), the
 following commands are used to control SDFS:
