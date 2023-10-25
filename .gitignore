@@ -8,3 +8,5 @@ resnet_model/
 lenet_model/
 mnist_testing/
 cat_dog_testing_set/
+__pycache__/
+*.pyc
